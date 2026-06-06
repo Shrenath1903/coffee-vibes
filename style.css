@@ -190,3 +190,42 @@ height:180px;
 }
 
 }
+
+.page-footer{
+  background:#121212;
+  border-top:1px solid rgba(255,255,255,0.08);
+  padding:18px 20px;
+  text-align:center;
+}
+
+.footer-content{
+  max-width:1000px;
+  margin:0 auto;
+  color:#d6c7b7;
+  font-size:0.95rem;
+  letter-spacing:0.02em;
+  line-height:1.8;
+}
+
+.footer-title{
+  margin-bottom:8px;
+  font-size:1rem;
+  color:white;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+}
+
+.footer-subtitle{
+  margin-bottom:6px;
+  font-size:0.95rem;
+  color:#c18a53;
+}
+
+.footer-content a{
+  color:#c18a53;
+  text-decoration:none;
+}
+
+.footer-content a:hover{
+  text-decoration:underline;
+}
