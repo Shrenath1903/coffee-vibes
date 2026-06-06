@@ -1072,7 +1072,7 @@ ingredients:"Potato, onion, spices"
   name:"Panner Hummus Wrap",
   category:"Wrap",
   price:170,
-  image:"img/paneer_hummus_wrap.jpg",
+  image:"img/Panner_Hummus_Wrap.jpg",
   making:"Wrap stuffed with paneer and hummus.",
   taste:"Creamy and savory.",
   ingredients:"Paneer, hummus, tortilla"
